@@ -31,5 +31,4 @@ Source: Kaggle
   with long-term performance and how to reduce unconscious bias in selection processes, ultimately enabling data-driven 
   hiring decisions that improve both quality of hire and diversity metrics.
 
-The Dashboard:
-
+The Dashboard: https://github.com/PalakChauhan28/HR-hiring-dashboard/blob/main/Snapshot%20of%20HRdashboard.png
