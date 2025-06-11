@@ -28,9 +28,6 @@ Source: Kaggle
   How many years of experience is necessary?
 
 - Business impact & Insights:
-  An HR hiring analytics dashboard can reduce recruitment costs by 40-60% and first-year turnover by up to 50% by identifying   the most effective recruitment channels, predicting candidate success through data patterns, and optimizing the hiring   
-  funnel to eliminate bottlenecks. The dashboard provides actionable insights such as which interview questions correlate 
-  with long-term performance and how to reduce unconscious bias in selection processes, ultimately enabling data-driven 
-  hiring decisions that improve both quality of hire and diversity metrics.
+  An HR hiring analytics dashboard can reduce recruitment costs by 40-60% and first-year turnover by up to 50% by identifying   the most effective recruitment channels, predicting candidate success through data patterns, and optimizing the hiring funnel to eliminate bottlenecks. The dashboard provides actionable insights such as which interview questions correlate with long-term performance and how to reduce unconscious bias in selection processes, ultimately enabling data-driven hiring decisions that improve both quality of hire and diversity metrics.
 
 The Dashboard: https://github.com/PalakChauhan28/HR-hiring-dashboard/blob/main/Snapshot%20of%20HRdashboard.png
